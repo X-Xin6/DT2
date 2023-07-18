@@ -1,17 +1,30 @@
 ---
-title: What is Markdown ?
+title: Irina Kasymova
 date: 2020-01-27
 tags: ["markdown"]
 image : "/img/posts/img-1.jpg"
 Description  : "The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use..."
 ---
 
-**What is Markdown?**
+**Irina Kasymova**
 
-The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.
 
-Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
 
-Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
+Location: Toronto, Ontario​
+
+Education/School: Schulich School of Business – York University​
+
+Major: Business Analytics and Supply Chain Management​
+
+Team: GTS Business Solutions Team​
+
+Role: Business Analyst Intern​
+
+Projects/Tasks: ITSM ServiceNow Studio – help carry projects through full life-cycle by gathering requirements/scope, creating user forms with developers, gathering sign-off from stakeholders and passing completed user forms to production​
+
+Hobbies: Reading, Hiking, Exploring Nature, Watching Rom-Coms​
+
+Business Chemistry: Driver – being technical, logical and quantitative, I have applied this by specializing in Business Analytics and taking charge on coding/dashboard projects in my courses.​
+
 
 <!--Photo by Robert Katzki on Unsplash-->
