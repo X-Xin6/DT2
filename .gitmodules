@@ -1,0 +1,3 @@
+[submodule "visionboards/themes/lightbi-hugo"]
+	path = visionboards/themes/lightbi-hugo
+	url = https://github.com/binokochumolvarghese/lightbi-hugo
