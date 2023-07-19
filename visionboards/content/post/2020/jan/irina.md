@@ -1,14 +1,13 @@
 ---
 title: Irina Kasymova
-date: 2020-01-27
+date: 2023-04-02 
 tags: ["markdown"]
 image : "/img/posts/img-1.jpg"
-Description  : "The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use..."
+Description  : "Toronto, Ontario"
 ---
 
-**Irina Kasymova**
 
-
+[Guess which business type I have, click here.](https://www2.deloitte.com/us/en/blog/business-chemistry/2019/drivers-value-challenge-and-they-generate-momentum.html)
 
 Location: Toronto, Ontario​
 
@@ -24,7 +23,7 @@ Projects/Tasks: ITSM ServiceNow Studio – help carry projects through full life
 
 Hobbies: Reading, Hiking, Exploring Nature, Watching Rom-Coms​
 
-Business Chemistry: Driver – being technical, logical and quantitative, I have applied this by specializing in Business Analytics and taking charge on coding/dashboard projects in my courses.​
+How I describe my self: Being technical, logical and quantitative, I have applied this by specializing in Business Analytics and taking charge on coding/dashboard projects in my courses.​
 
 
 <!--Photo by Robert Katzki on Unsplash-->

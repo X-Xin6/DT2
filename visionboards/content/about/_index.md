@@ -4,13 +4,7 @@ layout : "about"
 title: "About Us"
 ---
 
-I am Bino Kochumol Varghese.
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+We are a team showcases a combination of technical expertise, problem-solving skills, and creative thinking. We come from different educational backgrounds and are involved in various projects related to information technology, cybersecurity, data science, and cloud computing. With members representing diverse business chemistry types, the team is likely to be dynamic and capable of approaching challenges from multiple angles, fostering innovation and collaboration.
 
 <br/>
  

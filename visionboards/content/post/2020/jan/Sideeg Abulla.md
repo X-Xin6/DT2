@@ -3,19 +3,20 @@ title: Sideeg Abdulla
 date: 2021-01-31
 tags: ["hugo","blog"]
 image : "/img/posts/img-2.jpg"
-Description  : "It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub..."
+Description  : "Washington D.C"
 featured: true
 ---
 
 ### Which Business Chemistry type I am?
+[Guess which business type I have, click here.](https://www2.deloitte.com/us/en/blog/business-chemistry/2019/pioneers-value-possibilities-and-spark-energy-and-imagination.html)
 
 Location: Washington D.C​
 
-University: University of Maryland, College park ​
+University: [University of Maryland, College park](https://en.wikipedia.org/wiki/University_of_Maryland,_College_Park)​
 
  Major: Information Science ​
 
- Team: Cyber Risk and Advisory ​
+ Team: [Cyber Risk and Advisory ](https://www.deloitte.com/global/en/services/risk-advisory/services/cyber-risk.html)​
 
 Project: Presentation for the Director of Governance, Risk & Compliance about my summer experiences ​
 
